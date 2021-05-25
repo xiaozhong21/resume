@@ -1,5 +1,5 @@
 # resume
-[This is my most updated resume](https://github.com/xiaozhong21/resume/blob/main/CV_Xiao%20Zhong_git.pdf). 
+This is [my most updated resume](https://github.com/xiaozhong21/resume/blob/main/CV_Xiao%20Zhong_git.pdf). 
 
 Also, check out my progress on:
 
